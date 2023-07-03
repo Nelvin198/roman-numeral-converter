@@ -9,7 +9,7 @@ In the Integer to Roman mode, users can enter an integer value within the range 
 
 The program performs error handling to detect and raise exceptions for invalid input, such as invalid Roman numerals, invalid combinations of symbols, and out-of-range integers.
 
-The Roman Numeral Converter program also includes a welcome page that provides an introduction and instructions for using the program. After performing a conversion, the user has the option to continue using the program or exit by typing "exit()".
+The Roman Numeral Converter program also includes a welcome page that provides an introduction and instructions for using the program. After performing a conversion, the user has the option to continue using the program or exit by typing "q".
 
 This program idea is inspired by the 'Roman to Integer' problem on LeetCode, which challenges users to convert Roman numerals to their corresponding integer values. Leveraging the concepts and rules outlined in the problem, this program provides a user-friendly interface and efficient conversion algorithms to accurately convert Roman numerals to integers and vice versa."
 
